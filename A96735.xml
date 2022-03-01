@@ -1,0 +1,465 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVit and vvealth contending for preheminence: in a different dialogue between Wat Witty-pole and Davy Rich.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96735</idno>
+            <idno type="STC">Wing W3135</idno>
+            <idno type="STC">Thomason E1181_3</idno>
+            <idno type="STC">ESTC R208168</idno>
+            <idno type="EEBO-CITATION">99867145</idno>
+            <idno type="PROQUEST">99867145</idno>
+            <idno type="VID">119436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119436)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1183[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVit and vvealth contending for preheminence: in a different dialogue between Wat Witty-pole and Davy Rich.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.B. at the sign of the Maiden-head, neare Holborn Conduit,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Epigram on title page: You who have wit, or wealth (or both) to looke, are wish't (impartially) upon this booke.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wit and humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119436:1" rendition="simple:additions"/>
+            <p>VVit and VVealth Contending for PREHEMINENCE: IN A different Dialogue Between
+<list>
+                  <item>Wat Witty-pole and</item>
+                  <item>Davy Rich.</item>
+               </list>
+            </p>
+            <q>
+               <l>You who have wit, or wealth (or both) to looke,</l>
+               <l>Are wiſh't (impartially) upon this booke.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. B.</hi> at the Sign of the Maiden<g ref="char:EOLhyphen"/>head, neare Holborn Conduit. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:119436:2"/>
+            <head>A DIALOGUE BETWEEN VVit and VVealth.</head>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>CAre I for thy worldly traſh? not a ruſh: tell not mée of thy millions, thouſands, and hundreds: I prayſe my (bountifull) ſtarres I have an inbred treaſury, not valuable in reſ<g ref="char:EOLhyphen"/>pect of that which thou counteſt good.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy,</speaker>
+               <p>I, I, talk on, talk on; it ſeemes thou art neither acquainted with wealth, nor (what thou brag'ſt of moſt) wit; for thou art quite beſide thy Arethmatick, putting the cart before the horſes millions firſt, and hundreds laſt: a prepoſterous Argument ſuitable to thy diſpoſition.</p>
+            </sp>
+            <sp>
+               <speaker>Wat:</speaker>
+               <p>
+                  <hi>Why? I tell thee (foole) I am ſoe wea<g ref="char:EOLhyphen"/>ried from the very conception of any thought
+<pb n="3" facs="tcp:119436:2"/>concerning Riches, that tis noe wonder, if all words ſpoken by mee on that hatefull ſubiect prove to be abortive.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <p>How doeſt thou live then, I prithee?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>By my wit, I tell thée, and hold it a farre richer Patrimony then all thy gold can make thee ſoe much as capable of.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <p>Marry I tell thee in my conceit thou'ſt but a very bad trade on't now. What canſt thou expect to get by thy wit, in an age which regards neither wit, honeſty, conſcience, humanity. No<g ref="char:EOLhyphen"/>ble-Anceſtrey, nor indeed (to bee briefe) any thing; but what I am Maſter of, (and by which I can accompliſh whatſoever my thoughts would acquire) and that is money, the darling of the time, the conquerour of Conquerers, the Coyner of Honeſty, and the Muzzell of Elo<g ref="char:EOLhyphen"/>quence?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>O brave</hi> Davy, <hi>why now I perceive the caſe is much altered ſince I ſaw thée laſt, I doe not think but thou haſte bought (and read)</hi> Greens Groats worth of Wit, <hi>or (rather)</hi> Wits Common-wealth; <hi>why thy phraſe and man<g ref="char:EOLhyphen"/>ners is quite changed from what was wont to bée, or I now expected, I do not think but thou art become one of the wits of the times, all thy uſuall Dialect was</hi> Opus &amp; uſus, <hi>or</hi> Noverint
+<pb n="4" facs="tcp:119436:3"/>univerſi, &amp;c. <hi>but now let me ſée what is't the Darling of the Time, Conquerour of Conquer<g ref="char:EOLhyphen"/>ers, Muzzle of Eloquence; O rare ſtile I but tell me</hi> Davy, <hi>is all this Rhethorick proper to Pelf?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>This quotha? why I'd have thee to know <hi>Wat,</hi> that theſe golden phraſes, and thouſands more daily in uſe are the very children of droſſe (as thou calleſt it) Subjects of ſilver, Servants and ſlaves of gold: why man didſt never heare talke of golden Boyes, Girles worth gold, and penny white, brown bread Laſſes? I'm ſure thou haſt <hi>Wat.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>I marry have I, what then? are all theſe Epethits equivalent with an admirable wit, a quaint conceit, a curious delivery, an ex<g ref="char:EOLhyphen"/>quiſite device, an elaborate ſtile, and a gallant humour?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy,</speaker>
+               <p>Tuſh, what of all this? why, I ſay a<g ref="char:EOLhyphen"/>gaine and againe, and as many times againe as thou wilt, that all this, and as much as thou canſt ſum up between Shrove-tide and Eaſter, are but L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt by the benevolence of induſtrious gold and ſilver, does not money buy Learning? and (I prethee) does not learning make Divines, Law<g ref="char:EOLhyphen"/>yers Phiſicians, Phyloſophers, Poets, and what not? <hi>Ergo,</hi> no mony no Maſter, no Maſter no
+<pb n="5" facs="tcp:119436:3"/>Scholler; for it is an old Proverb, <hi>No penny, no Paternoſter;</hi> therefore <hi>Wat</hi> leave off thy bragging of wit, leaſt thou prove thy ſelf a fool, in preferring it before wealth, which is (as it were) a creator of Wit.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>I proteſt</hi> Davy, <hi>though indéed I never held thée to bée very wiſe, yet I tell thée, I ne<g ref="char:EOLhyphen"/>ver expected ſuch a vacuity of diſcretion, as now thou haſt bewrayed in thy laſt diſcourſe, out up<g ref="char:EOLhyphen"/>on thée, hold thy tongue for ſhame, till thou learn how to uſe it better: I vow I'me aſham'd of thée.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>Why Sirrah? tell me patiently, I beleeve in truth this is but a flouriſh of wit, a meere whimfie to daunt me, and make mee leave off, but in faith thou art a younger brother in that, all thy witty flaſhes cannot beat me off from my ground, I ſay ſtill, that wealth is to be preferred before wit, as being (in a manner) the very nurſe and foſter father of it, all theſe thy bravadoes ſhall never beat me off, while I can ſpeak my minde to maintain it.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>I marry, thou haſt ſpun a fine thred in<g ref="char:EOLhyphen"/>déed, thy argument is even as ſtrong as a Spi<g ref="char:EOLhyphen"/>ders web, which thou ſhalt ſée me preſently blow away, and diſſolve with a blaſt from my mouth; thou haſt ſpoken like a méere Dody-pole as thou
+<pb n="6" facs="tcp:119436:4"/>art, in ſéeking to prove that Wealth buyes Learning, and Learning creates wit, when it is apparently ſéen to the contrary; onely this I confeſſe that Literature is a moſt neceſſary handmaid to the Muſes, without which (indéed) they cannot be well dreſſed, but</hi> Poëta naſci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur non fit, <hi>a Poet is ſo born, not ſo made, for un<g ref="char:EOLhyphen"/>leſſe a man have an inbred and naturall proclivi<g ref="char:EOLhyphen"/>ty, what boots all his Learning? nay rather, doth it not render him more odious to his audi<g ref="char:EOLhyphen"/>tors, who expecting the Nut of Learning, finde nothing but the ſhell of guilded ignorance, like a Iay deck'd in Peacocks feathers, a Sow with a gold ring in her ſnout, and a Millers Aſſe, garniſhed with the rich ſaddle and trappings of</hi> Beucephelus, <hi>doth not the experience of all ages ratifie this? ſpeak men.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>Thou wouldſt inforce me to beleeve ſo, but I neither can nor will, without particu<g ref="char:EOLhyphen"/>lars to confirm thy words more then a generall ſaying that it is ſo, therefore I abſolutely deny the Argument to be good unleſſe thou canſt in<g ref="char:EOLhyphen"/>ſtance ſome pregnant proofe to juſtifie thy aſ<g ref="char:EOLhyphen"/>ſertion.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>That I can very readily doe, not néed<g ref="char:EOLhyphen"/>ing to trouble thée with precedent men &amp; times, but even turning to thoſe now living in this
+<pb n="7" facs="tcp:119436:4"/>preſent age, and of them one moſt eminent may ſerve to dignifie a multitude of others more ob<g ref="char:EOLhyphen"/>ſcure: what thinkeſt thou of that notable (only) Engliſh Poet</hi> John Taylor, <hi>how many ſublime and (truely) witty Poems hath bée publiſhed in Print? raiſing a Pyramides to his never dy<g ref="char:EOLhyphen"/>ing memory, of an ingenuous fertile braine without any addition of learning worth menti<g ref="char:EOLhyphen"/>on: but what his own induſtrious (and inbred) capacity hath poſſeſt him of; what curry-combs hath hee taken out of the Iron-mongers own ſhop to dreſſe the (ill conditioned) Iade withall? how artificially hath he roſted and broyled him upon his own ſpits, and grid-irons, how hath hée fry'd and toſs'd him in his own frying-pan, baſted him with his own ladle, and boyl'd him like a Calves-head and Bacon in his own pot<g ref="char:EOLhyphen"/>tage-pot? Now I prethée judge impartially of this; the one vaunts much of great learning (which thou ſayeſt is bought with money) the other profeſſeth himſelf to be guilty of very lit<g ref="char:EOLhyphen"/>tle (if any) and yet how different their writings are, having (with all poſſible acerbity preſt the Preſſe againſt each other, the world hath cenſur<g ref="char:EOLhyphen"/>ed already, and ſo doe thou now.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>Why, is not the Iron-monger coun<g ref="char:EOLhyphen"/>ted for a pregnant witty fellow? I think he is,
+<pb n="8" facs="tcp:119436:5"/>he hath publiſhed (and doth weekly) a number of Pamphlets, which ſome like exceeding well</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>Why, I tell thée hée hath no wit, but a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> kinde of railing invention; was ever any ag<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> guilty of producing ſuch a firebrand of miſ<g ref="char:EOLhyphen"/>chiefe? what peſtiferous incentives hath hee writen and publiſhed, to ſtir up ſedition betwixt the King and his people, while it is to be feared hée is really true to neither.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>Well then, leaving this diſcourſe, let us proceed to ſomething (in my conceit) more pertinent to our purpoſe, which ſhall bee this: whether Wit or Wealth (as I touched in the beginning) will beſt feed and cloath a man? an<g ref="char:EOLhyphen"/>ſwer me to that briefly and plainly; here's the caſe, thou haſt Wit enough, and I have Wealth enough; now which of them affords the beſt maintenance, there lies the ſtate of the queſtion, I hold my principle ſtill, Wealth is to be prefer<g ref="char:EOLhyphen"/>red before Wit?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>And I will confidently defend the pre<g ref="char:EOLhyphen"/>cedency of Wit before Wealth, as being a di<g ref="char:EOLhyphen"/>vine and ſupernaturall gift, which mony can never purchaſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>That's confeſt but nevertheleſſe thou canſt not deny but Wealth is a Divine gift, as well as Wit, is it not? doth not holy writ men<g ref="char:EOLhyphen"/>tion
+<pb n="9" facs="tcp:119436:5"/>many godly men, very rich?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>I prethée</hi> Davy <hi>let holy Writ alone in our quarrell, for I love not to mix holy and pro<g ref="char:EOLhyphen"/>phane matters together, but if thou ſhouldeſt hedge in them to make thy fence the ſtronger, the examples are ſo few, in compariſon of o<g ref="char:EOLhyphen"/>thers, that have abandoned riches to imbrace contemplation in poverty; that the difference would eaſily appeare; to what end thinkeſt thou did my Couzen</hi> Crates <hi>that witty Phyloſopher, throw all his wealth (which was abundance) into the Sea; was it not becauſe it was an im<g ref="char:EOLhyphen"/>pediment to his ſtudy, and our Poets in imitati<g ref="char:EOLhyphen"/>on of him, if they be poſſeſt with any worldly traſh (as loathing to kéep it) doe they not drown it in Sack, as he drowned his in the Sea? what ſhould he doe with wealth, who hates it in com<g ref="char:EOLhyphen"/>pariſon of his ſtudy? the Muſes children ne're turn Vſurers, nor care they for coyn, but for ne<g ref="char:EOLhyphen"/>ceſſity, all beſides is ſuperfluous.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>This is all true (I confeſſe) but tell me one thing <hi>Wat,</hi> how if thou ſhould'ſt come to be ſick, lame, caſt in priſon, or feel any ſuch kind of affliction, can thy wit eaſe or releaſe thee, will the Phiſitians, or Gaolers, take learned Epiſtles, or witty Poems, in lieu of their fees, canſt thou in rime ſhew them a reaſon why they ſhould
+<pb n="10" facs="tcp:119436:6"/>deliver thee without money? nay, Ile goe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nearer and eaſier way with thee, canſt thou by ſuch meanes procure any palliation or mitigati<g ref="char:EOLhyphen"/>on to (or of) thy miſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y, will they be mollified with Madrigalls, ſoftned with Sonets, entreated with Epigrams overcome with Odes? tell mee ſeriouſly, <hi>Wat,</hi> what think'ſt thou? whether will Wit or Wealth (in ſuch ſad exigents) ſtand thee in the moſt ſtead?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>This touches home I proteſt, thou ne<g ref="char:EOLhyphen"/>ver graveld'ſt me till now, yet Ile beare up ſtill; and ſuppoſe that reliefe may be gain'd by Art; for if</hi> Orpheus <hi>had power with his dulced har<g ref="char:EOLhyphen"/>mony to convert ſalvage beaſts from their natu<g ref="char:EOLhyphen"/>rall (and cuſtomary) truculency, can it be ima<g ref="char:EOLhyphen"/>gined that men (ſuch as are Phiſitians or Gao<g ref="char:EOLhyphen"/>lers) ſhould be more barbarous then bruit beaſts, more ſalvage then Satyres, more cruel then Ca<g ref="char:EOLhyphen"/>niballs, and more inhumane then Incubuſes, have I clench'd the nayle</hi> Davy, <hi>what ſayeſt thou?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>Very ſleightly, <hi>Wat,</hi> nay, now I per<g ref="char:EOLhyphen"/>ceive thou beginneſt to yeeld, I have beat thee out of thy pay run thee off o'thy legges, put thee beſides thy Text, turn'd thee out of time, and whipt thee to confeſſion of thy folly, yeeld up the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Wat</hi> for in truth thou art utterly
+<pb n="11" facs="tcp:119436:6"/>foyl'd in thy argument, art thou not?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>Ne're the ſooner for a haſty word,</hi> Da<g ref="char:EOLhyphen"/>vy, <hi>I confeſſe that I doubt ſome of this is to<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> true, but howſoever,</hi> Davy, <hi>let mee have tryall by thy own Law, thou didſt put me to particu<g ref="char:EOLhyphen"/>lar proofes in a generall plain raſe, the like I claime of thée.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>Very willingly, <hi>Wat,</hi> but let one in<g ref="char:EOLhyphen"/>clude many as thou ſervedſt mee (about <hi>Iohn Taylor</hi>) there is an honeſt man, a very good friend of mine, and one whom thou knoweſt very well (but he ſhall now goe nameleſſe) he is (by many) accounted to have an indifferent por<g ref="char:EOLhyphen"/>tion of wit, but in this ſad predicament being a cloſe priſoner in <hi>Aulum Iuſtitia,</hi> belonging to <hi>Nova Porta</hi>) he is altogether deſtitute of mony, and conſequently of friends; all ſhunning him (as a man utterly forlorn and forſaken;) nay, which is moſt (and worſt) of all: Some to whom the key of his wit (when he was at liberty) did, in a manner, open the doore to their earthly hap<g ref="char:EOLhyphen"/>pineſſe (I think they expect no heavenly) now in his diſtreſſed captivity, doe utterly abandon his ſight not vouchſafing to viſit him with money due to him, nor giving him former imployment, what ſayeſt thou to this, <hi>Wat,</hi> wilt thou yet grant me the Victory?</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:119436:7"/>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>Truely I am heartily ſorry, that thou giveſt mee ſuch (a failing) occaſion; eſpecially conſidering that he is an intimate acquaintance of mine (as thou ſayeſt he is) tuſh, I am not ab<g ref="char:EOLhyphen"/>ſolutely induced to beléeve it; yet indéed this preſent age hath gotten the ſtart of all precedent times for ingratitude, hypocriſie, hardneſſe of heart, neglect of lawdable Arts (and Cuſtomes,) and indéed want of common honeſty; but let mée ſée, I was about to ask thée how the Gao<g ref="char:EOLhyphen"/>lers uſe him (for that was our argument before) but 'tis néedleſſe diſcourſe for if his profeſſed and obliged friends, are ſo ingratefully cruell, a man may almoſt conclude it as an Article that his wit or honeſty will but little prevaile with the Kéepers without that which makes the Mare to goe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>Why ſo I ſaid before, and ye introth, <hi>Wat,</hi> I muſt needs (in his caſe) vary ſomething from my firſt principle: for his particular he: hath found unexpected favour from his Keepers (whether wone by his wit, honeſty, or both, I queſtion not) for were not their hearts ſoftned in conſideration of his condition which is with<g ref="char:EOLhyphen"/>out paralell): he had been caſt into the common Gaole before this time, there to have periſhed without any remedy.</p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:119436:7"/>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>Well,</hi> Davy, <hi>me thinks yet I ſmell the victory as hot in my noſtrils as a Beare does honey in a marrow-bone: haſt not thou confeſt it thy ſelf? doſt not thou (with pitying his caſe, withall) conclude that his wit and honeſty pro<g ref="char:EOLhyphen"/>cure him favour without money? what can be more cleare? a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Davy? <hi>have I taken you tardy ath' laſt? come yeild, yeild.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>Well <hi>Wat:</hi> I perceive that if I give thee an Inch thou'lt take an Ell: but I prithee don't vaunt before the victory: ſuppoſe I have granted that the Keepers are kind to him beyond cuſto<g ref="char:EOLhyphen"/>mary uſe? wilt thou therefore runne away with the argument, as though the poore man might not be better us'd for money, if he had it? away with thee, thou a <hi>Wity-pole,</hi> thou a <hi>Dady-pole,</hi> (as thou call'ſt me) thou haſt abſolutely brought thy ſelf into a Meander of folly; from which all thy pretended Wit cannot deliver thee.</p>
+            </sp>
+            <sp>
+               <speaker>Wat</speaker>
+               <p>
+                  <hi>O brave</hi> Davy, <hi>I proteſt I think the rich fool will carry't when all is done.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>Rich fool quotha, marry, <hi>Wat,</hi> as the world goes now adaies, he's moſt wiſe (or wity, or what thou wilt call it) that can keep a penny for a rainy day (as the Proverb ſayes) come, come <hi>Wat,</hi> have thou wit to ſave thy money when thou haſt it, thou'lt brook thy name the better
+<pb n="14" facs="tcp:119436:8"/>by't, doe not ſtand upon a vain opinion of living by thy wit, I tell thee thou mayeſt as well turn Chamelion and live by the a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, conſider with thy ſelf, the condition of people, though they ſpeak faire in proſperity, while the golden ſun or the ſilver Moon of thy fortunes, reflect upon them, what will they doe, or what will they ſay when thoſe refulgent Luminaries are ſet or eclipſed, Faith, if thou wantſt either meat, drink, or appa<g ref="char:EOLhyphen"/>rell, ſo thou mayſt, till new Lights be recovered, if thou owe money, wit will not pay it, thats cer<g ref="char:EOLhyphen"/>taine.</p>
+            </sp>
+            <sp>
+               <speaker>Wat,</speaker>
+               <l>Well though this age my humor will not fit,</l>
+               <l>The time hath been, when I liv'd by my wit.</l>
+               <l>And bravely too, my minde unto my ſelfe,</l>
+               <l>Yeelding content; exceeded all thy pelf.</l>
+               <l>
+                  <hi>A</hi> rich man ne'r content, ſtill wiſhes more,</l>
+               <l>Ith' midſt of's wealth, hees miſerably poore,</l>
+               <l>The poore man pleas'd with what rich heaven hath ſent,</l>
+               <l>Is rich in minde, being with his ſtate content.</l>
+               <l>Hang pelf (ſay I) Ile ne'r be ſlave to it.</l>
+               <l>Ile rather mak't a ſlave to me and wit.</l>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>
+                  <hi>Then,</hi> Wat, <hi>it ſéems all theſe reaſons don't move thée to retract thy ſayings.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <l>No, <hi>Davy</hi> no, I will not yeeld a whit,</l>
+               <l>Nor ſay that curſed Wealth ſhall reigne o're Wit:</l>
+               <l>Wit is a branch of Wiſdoms ſacred tree,</l>
+               <l>Whoſe root's in heaven, but on the contrary,</l>
+               <l>Gold grows ith' earth, and cauſeth ſo much evill,</l>
+               <l>That many men to gain it, ſerve the devill.</l>
+               <l>
+                  <pb n="15" facs="tcp:119436:8"/>For my part, what is needfull, I reſpect,</l>
+               <l>The reſt I (as ſuperfluous chaffe) reject,</l>
+               <l>Could food and rayment bought with ruſhes be,</l>
+               <l>Take gold and ſilver then who liſt for m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>Well <hi>Wat,</hi> thou haſt got two ſtrings to thy bow, what thou canſt not get with rea<g ref="char:EOLhyphen"/>ſon thou'lt have in rime, well, Ile yeeld on one condition.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>What's that, a requeſt that is reaſon<g ref="char:EOLhyphen"/>able, or rimeable, ſpeak?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy.</speaker>
+               <p>Both, I deſire a Song before we part, that ſhall end our controverſie.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>Wilt thou not be angry? may I ſing what comes at my tongues end.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Davy,</speaker>
+               <p>I, I, what comes next let's have it, I prethee honeſt <hi>Wat.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>Then have at it, 't ſhall bée extempore, a tryall of Wit.</hi>
+               </p>
+            </sp>
+            <stage>
+               <hi>A Song.</hi> To the tune of, See the building, &amp;c.</stage>
+            <lg n="1">
+               <head>I.</head>
+               <l>FY on fond riches,</l>
+               <l>That earthly mindes bewitches,</l>
+               <l>to griefe and Smart:</l>
+               <l>Woe worth that treaſure,</l>
+               <l>Which doth beyond all meaſure,</l>
+               <l>inſnare the heart.</l>
+               <l>Wellfare thoſe ſpirits that aſcend.</l>
+               <l>the forked Mountain.</l>
+               <l>and taſte that Fountain,</l>
+               <l>
+                  <pb n="16" facs="tcp:119436:9"/>Whoſe dulced ſtreames no tongue can right commend:</l>
+               <l>Such is the matchleſſe pleaſure,</l>
+               <l>that doth on Wit attend.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Obſerve the ſorrowes,</l>
+               <l>Which the rich Miſer borrows,</l>
+               <l>who lends for gaine:</l>
+               <l>Note well the paſſions</l>
+               <l>And ſleeps preocupations,</l>
+               <l>which vex his braine.</l>
+               <l>Take notice alſo of the joy,</l>
+               <l>which he'es poſſeſt off</l>
+               <l>who makes a jeſt off</l>
+               <l>This momentary traſh, which as a toy,</l>
+               <l>wee wits throwe downe before us,</l>
+               <l>the drawers to Imploy.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Give me that necter,</l>
+               <l>Which is my hearts directer:</l>
+               <l>my Muſes guide,</l>
+               <l>No earthly metle.</l>
+               <l>Hath power my thoughts to ſetle,</l>
+               <l>my fancies ride.</l>
+               <l>Through Heaven, Hell, Sea, Land, and Sky,</l>
+               <l>all in a moment,</l>
+               <l>and I can comment.</l>
+               <l>On all events, and judge both lowe and high,</l>
+               <l>ſo's hee thats an affecter,</l>
+               <l>of heavenly Poetry.</l>
+            </lg>
+            <sp>
+               <speaker>Davy.</speaker>
+               <l>
+                  <hi>Gramercy</hi> Wat <hi>this ſong deſerves my prayſe,</hi>
+               </l>
+               <l>
+                  <hi>Were it for nothing els, thou win'ſt the Bayes.</hi>
+               </l>
+               <l>Adeiu honeſt <hi>Wat</hi> witypole.</l>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <l>
+                  <hi>Davy farwell; anon I'l drink a health,</hi>
+               </l>
+               <l>
+                  <hi>To him who rates my wit above his wealth.</hi>
+               </l>
+            </sp>
+            <stage>Exit ambo.</stage>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
